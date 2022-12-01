@@ -108,11 +108,35 @@ REPOSITORIO COMPLETO DEL HITO 3 🗂️​**   </A>
 **<A href="https://github.com/Ilia-sarzo/estructura-de-datos-/tree/main/Hito3/Defensa%20hito%203/laboratorios/Lab4">Laboratorio 4 ☞ Laboratorio de clase 4 [ [Consola. Java] 💻</A>**
 [![presentacion-hito4-1.png](https://i.postimg.cc/R0XSJQZb/presentacion-hito4-1.png)](https://postimg.cc/Z9vt1N3r)
     
+ REPOSITORIO COMPLETO DEL HITO 4 🗂️​**   </A>
 
+##  ​💻​​ APARTADOS DEL REPOSITORIO DEL HITO 4​🗂️​​
+
+***En este apartado se encuentran los Laboratorios || Proyectos del Hito 4 por separado.***
+
+**<A href="https://github.com/Ilia-sarzo/estructura-de-datos-/tree/main/Hito4/Practica%20hito%204/cllientes">PRACTICA HITO 4 ☞ Codigos [Codigo] 💻👩🏻‍</A>**
+
+**<A href="https://github.com/Ilia-sarzo/estructura-de-datos-/blob/main/Hito4/Practica%20hito%204/COLA%20HITO%204.pdf">Presentacion Powerv Point PDF ☞ Defensa del Hito 3 [ PDF] ​📚📖​</A>**
+
+**<A href="https://drive.google.com/file/d/1gQEjemBEbfbdo_Fc5A80Y09Yvi7IhAfo/view?usp=share_link
+">Videos de defensa hito 3☞ Defensa del Hito 3[Video] ​🎬 🎞️​</A>**
+
+**<A href="https://github.com/Ilia-sarzo/estructura-de-datos-/tree/main/Hito4/Laboratorios"> Laboratorios ☞ Carpeta de los laboratiros 💻 </A>**
+
+**<A href="https://github.com/Ilia-sarzo/estructura-de-datos-/tree/main/Hito4/Laboratorios/Laboratorio1/ColaDeNumeros"> Laboratorios ☞ Laboratorio  1 [Consola. Java] 💻 </A>**
+
+ **<A href="https://github.com/Ilia-sarzo/estructura-de-datos-/tree/main/Hito4/Laboratorios/Lab2/ColaDeNumeros"> Laboratorios ☞ Laboratorio  2 [Consola.Java] 📄​ </A>**
+
+**<A href="https://github.com/Ilia-sarzo/estructura-de-datos-/tree/main/Hito4/Laboratorios/LAB3/ColaDeNumeros">Laboratorio 3 ☞ Laboratorio  3 [ [Consola. Java] 💻</A>**
+   
+    
+    
+    
 <p align="centro">
     <img src="https://guiauniversitaria.mx/wp-content/uploads/2019/11/por-que%CC%81-estudiar-ingenieri%CC%81a-en-sistemas.jpg" width="450" >
 </p>
 
+    
 ##  🧑🏻‍💻 Autor
 
 **Ilia Araceli Sarzo Laura**
