@@ -2,12 +2,6 @@
 <h3 align="center">Foros || Trabajos || Proyectos || Laboratorio </h3>
 
 
-<p align="centro">
-    <img src="[![presentacion-para-git-estructura-1.png](https://i.postimg.cc/XqrgF8cj/presentacion-para-git-estructura-1.png)](https://postimg.cc/Zvh3z6M2)" width="450" >
-</p>
-
-
-
 # (^-^)💻 HITO 1 💻
 
 **Repositorio Completo del Hito 1**
