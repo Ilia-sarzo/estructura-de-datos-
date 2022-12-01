@@ -26,10 +26,8 @@
 
 **<A href="https://github.com/Ilia-sarzo/estructura-de-datos-/blob/main/hito%201/vehiculo/Main.java"> Vehiculo ➡️ClaseMain.Java (Codigo)👩🏻‍💻</A>**
     
+   [![presentacion-hito-2-1.png](https://i.postimg.cc/B698NC0Z/presentacion-hito-2-1.png)](https://postimg.cc/wt2TjLMn) 
     
-    
-    [![presentacion-hito-2-1.png](https://i.postimg.cc/B698NC0Z/presentacion-hito-2-1.png)](https://postimg.cc/wt2TjLMn)
-
 ##  (っ•́｡•́)っ📚 HITO 2 📚)👩🏻‍💻
 
 **Repositorio Completo del Hito 2**
