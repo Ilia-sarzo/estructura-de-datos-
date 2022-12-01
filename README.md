@@ -81,7 +81,7 @@
     [![presentacion-hit-3-1.png](https://i.postimg.cc/cHPNfDyT/presentacion-hit-3-1.png)](https://postimg.cc/2bdJD75B)
 ##  (っ▀¯▀)つ 🗂️​ HITO 3 🗂️
     
-**Repositorio Completo del Hito 3**
+**Repositorio Completo del Hito 3
 <A href="https://github.com/Ilia-sarzo/estructura-de-datos-/tree/main/Hito3/Defensa%20hito%203"> **(☞ﾟヮﾟ)☞
 
 REPOSITORIO COMPLETO DEL HITO 3 🗂️​**   </A>
