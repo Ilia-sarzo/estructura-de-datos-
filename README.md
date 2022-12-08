@@ -28,12 +28,13 @@
 
 **<A href="https://github.com/Ilia-sarzo/estructura-de-datos-/blob/main/hito%201/vehiculo/Main.java"> Vehiculo ➡️ClaseMain.Java (Codigo)👩🏻‍💻</A>**
     
-	[![Whats-App-Image-2022-12-08-at-9-14-52-AM.jpg](https://i.postimg.cc/sgPxP0fQ/Whats-App-Image-2022-12-08-at-9-14-52-AM.jpg)](https://postimg.cc/XrJn4LC4)
-
+[![Whats-App-Image-2022-12-08-at-9-14-52-AM.jpg](https://i.postimg.cc/sgPxP0fQ/Whats-App-Image-2022-12-08-at-9-14-52-AM.jpg)](https://postimg.cc/XrJn4LC4)
+	
 ##  (っ•́｡•́)っ📚 HITO 2 📚)👩🏻‍💻
 
 **Repositorio Completo del Hito 2**
-<A href="https://github.com/Ilia-sarzo/estructura-de-datos-/tree/main/hito2">
+<A href="https://github.com/Ilia-sarzo/estructura-de-datos-/tree/main/hito2"
+   
 **(☞ﾟヮﾟ)☞ 📁REPOSITORIO COMPLETO DEL HITO 2** 
 
 ##  ​🖥️​ APARTADOS DEL REPOSITORIO DEL HITO 2
