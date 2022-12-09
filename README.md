@@ -184,7 +184,7 @@ Copyright © 2022 [ Ilia-sarzo ](https://github.com/Ilia-sarzo).
 <p align="center">
     <img src="
 <p align="center">
-    <img src="https://media.tenor.com/6tphPi4CZ00AAAAj/thank-you-hummp.gif" width="450">
+    <img src="[https://media.tenor.com/6tphPi4CZ00AAAAj/thank-you-hummp.gif](https://media.tenor.com/FMR75MjeyWsAAAAi/deredere-anime.gif)" width="450">
 </p>" width="450">
 </p>
 
